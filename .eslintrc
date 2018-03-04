@@ -1,0 +1,6 @@
+{
+  "extends": "kupibilet",
+  "rules": {
+   "max-len": ["error", { "code": 80 }]
+    }
+}

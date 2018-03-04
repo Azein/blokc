@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "commander": "^2.14.1",
+    "udp-request": "^1.5.0"
+  },
+  "devDependencies": {
+    "eslint-config-kupibilet": "^9.3.0"
+  }
+}
